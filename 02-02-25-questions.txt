@@ -1,7 +1,16 @@
 # Questions
 
 - Team 1: 2873. Maximum Value of an Ordered Triplet I
+  https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/
+
 - Team 2: 202. Happy Number
+  https://leetcode.com/problems/happy-number/description/
+  
 - Team 3: 222. Count Complete Tree Nodes
+  https://leetcode.com/problems/count-complete-tree-nodes/description/
+
 - Team 4: 231. Power of Two
+  https://leetcode.com/problems/power-of-two/description/
+
 - Team 5: 234. Palindrome Linked List
+  https://leetcode.com/problems/palindrome-linked-list/description/

@@ -1,0 +1,7 @@
+# Questions
+
+- Team 1: 2873. Maximum Value of an Ordered Triplet I
+- Team 2: 202. Happy Number
+- Team 3: 222. Count Complete Tree Nodes
+- Team 4: 231. Power of Two
+- Team 5: 234. Palindrome Linked List
